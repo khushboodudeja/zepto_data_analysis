@@ -112,5 +112,4 @@ CREATE TABLE zepto (
 
 
 
-## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
 
